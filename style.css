@@ -1,0 +1,7 @@
+ul.related_search_results_list { margin: 6px 6px 0 8px; max-height: 268px; overflow: auto; }
+ul.related_search_results_list li { padding: 2px; border-bottom:1px solid #eee;}
+ul.related_search_results_list li:first-child { padding: 8px 2px 2px; border-top:3px solid #ddd; }
+ul.related_search_results_list.saved li { padding: 2px; margin-bottom:2px; border-bottom:1px solid #eee; border-top:none; }
+ul.related_search_results_list.saved li:last-child { padding: 2px; border:none; }
+ul.related_search_results_list li img { height:30px; }
+ul.related_search_results_list li select { margin: 4px 0 0 10px; vertical-align: top; }
